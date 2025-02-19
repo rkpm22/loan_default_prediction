@@ -63,4 +63,4 @@ Age Impact: Borrowers aged 45-54 were the largest demographic.
 
 👨💻 Author: Raunaksingh Khalsa
 🔗 Repository: https://github.com/rkpm22/loan_default_prediction/tree/main
-📧 Contact: eraunaksinghkhalsa@gmail.com
+📧 Contact: raunaksinghkhalsa@gmail.com
